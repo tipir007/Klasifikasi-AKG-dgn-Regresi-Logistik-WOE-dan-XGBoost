@@ -1,0 +1,29 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Susenas microdata and derived household data: do not publish
+DATA SUSENAS/
+Klasifikasi_Kalori_RT.csv
+*.dbf
+
+# Local previews / generated temporary files
+*_preview.pdf
+*_preview.png
+flowchart_metodepenelitian_preview.png
+
+# Other course datasets/materials not part of this project repository
+Akreditasi SMA di Pulau Jawa.xlsx
+terapi.csv
+cara perhitungan AKG.xls
+diskritisasi 2026.html
+Target Encoding.html
+Pemodelan Klasifikasi - Pertemuan #09 -- Diskretisasi dengan coretan 2026.pdf
+Pemodelan Klasifikasi - Pertemuan #10 -- Pohon Klasifikasi.pdf
+Tugas Pemodelan Klasifikasi UAS 2026-2027.pdf
+Tugas Pemodelan Klasifikasi.txt
+Template Jurnal Stastika dan Aplikasinya English 2024.docx
+plan.md
+review.md
+link.txt
