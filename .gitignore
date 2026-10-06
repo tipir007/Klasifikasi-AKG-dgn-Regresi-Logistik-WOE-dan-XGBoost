@@ -8,6 +8,12 @@ DATA SUSENAS/
 Klasifikasi_Kalori_RT.csv
 *.dbf
 
+# Quarto render output and cache (cache holds objects built from microdata)
+*_cache/
+*_files/
+*.html
+.quarto/
+
 # Local previews / generated temporary files
 *_preview.pdf
 *_preview.png
@@ -27,3 +33,4 @@ Template Jurnal Stastika dan Aplikasinya English 2024.docx
 plan.md
 review.md
 link.txt
+P1M2_Christopher_Roberto.ipynb
